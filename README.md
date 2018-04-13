@@ -1,2 +1,1 @@
-# solidity-zh
-Solidity Documentation in Chinese
+# Solidity Documentation && Libraries
