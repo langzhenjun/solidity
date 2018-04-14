@@ -1,12 +1,5 @@
 # Solidity开发文档翻译（二）：安装Solidity编译器
 
->原文地址(https://solidity.readthedocs.io/en/v0.4.21/introduction-to-smart-contracts.html)
-
->反馈邮箱(mailto:langzhenjun@gmail.com)
-
->github(http://github.com/langzhenjun/solidity.git)
-
-
 ## 版本号
 Solidity的版本号使用Semantic Versioning管理方式，有正式版和开发版。开发版包含一些未经验证的修改，可能还存在问题，虽然尽了最大的努力，但并不能保证可以正常高效的运行。我们推荐使用最新的正式版。在下文中，我们将会使用最新的正式版。
 
@@ -130,3 +123,12 @@ cmake -G "Visual Studio 14 2015 Win64" ..
 ## The version string in detail
 
 ## Important information about versioning
+
+
+
+
+>原文地址(https://solidity.readthedocs.io/en/v0.4.21/introduction-to-smart-contracts.html)
+
+>反馈邮箱(mailto:langzhenjun@gmail.com)
+
+>github(http://github.com/langzhenjun/solidity.git)
